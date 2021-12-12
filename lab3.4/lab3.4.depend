@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577803420 source:f:\lab exercise\lab 3\lab3.4\main.cpp
+	<iostream>
+	<string.h>
+
